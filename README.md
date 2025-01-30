@@ -68,7 +68,6 @@ Addition of any further functionality is up to you but the following functions m
     ```
     
     (5 marks)
-    
 
 ## Important
 
@@ -87,6 +86,12 @@ The README should contain:
 The `README.md` should be properly formatted with the markdown syntax.
 
 (5 marks)
+
+> **Summary:** The entire README file
+> **Reason for the Repository:** To complete the ECSE3038 Lab 1 assignment, and try out my own jupyter notebook for the first time
+> **Joke**: 
+> - This README was copied from the notion file 😂😂 and 
+> - Winter is coming soon?
 
 ## Note
 
